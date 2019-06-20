@@ -3,4 +3,4 @@
 
 repo --> https://github.com/MichalAW/25.4.juggle-data-between-endpoints.git
 
-site -->
+site --> https://michalaw.github.io/25.4.juggle-data-between-endpoints/
