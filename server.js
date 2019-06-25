@@ -9,7 +9,7 @@ app.get('/userform', function (req, res) {
         last_name: req.query.last_name
     };
     res.json(response);
-    res.sendFile('/index.html');
+    res.sendFile('/assets');
 });
 
 var server = app.listen(3000, 'localhost', function () {
