@@ -3,4 +3,6 @@
 
 repo --> https://github.com/MichalAW/25.4.juggle-data-between-endpoints.git
 
-site --> https://michalaw.github.io/25.4.juggle-data-between-endpoints/
+# Downlooad repository
+
+# Run script "start"
